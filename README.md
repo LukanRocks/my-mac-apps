@@ -10,12 +10,7 @@ https://brew.sh/
 - node
 - 1password-cli
 - bruno
-- https://github.com/newmarcel/KeepingYouAwake
 - https://github.com/FuzzyIdeas/IsThereNet
-- https://github.com/alin23/Lunar
-- https://github.com/FuzzyIdeas/MusicDecoy
-- https://github.com/localsend/localsend
-
 
 
 # Download Apps
@@ -29,11 +24,33 @@ https://brew.sh/
 - Unify Endpoint
 
 ## Development
+- Claude
+    - App
+    - CLI
 - VScode
 - GitHub Desktop
 - xCode
+- ClickUp
 
 ## Others
 - Affinity
 - Balena Etcher
 - Bambu Studio
+- Insta360 Link Controller
+- [Tolaria](https://github.com/refactoringhq/tolaria)
+- [PearCleaner](https://github.com/alienator88/Pearcleaner)
+
+# Documents
+- Keynote
+- Pages
+- Numbers
+
+# Deciding
+- Ghost Pepper
+- [Lunar](https://github.com/alin23/Lunar)
+- LocalCan
+- https://theboring.name/
+- https://github.com/localsend/localsend
+- https://github.com/FuzzyIdeas/MusicDecoy
+- https://github.com/newmarcel/KeepingYouAwake
+- https://antinote.io/
