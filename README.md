@@ -12,7 +12,6 @@ https://brew.sh/
 - bruno
 - https://github.com/FuzzyIdeas/IsThereNet
 
-
 # Download Apps
 - Zen
 - 1Password
@@ -32,6 +31,11 @@ https://brew.sh/
 - xCode
 - ClickUp
 
+# Documents
+- Keynote
+- Pages
+- Numbers
+
 ## Others
 - Affinity
 - Balena Etcher
@@ -39,11 +43,6 @@ https://brew.sh/
 - Insta360 Link Controller
 - [Tolaria](https://github.com/refactoringhq/tolaria)
 - [PearCleaner](https://github.com/alienator88/Pearcleaner)
-
-# Documents
-- Keynote
-- Pages
-- Numbers
 
 # Deciding
 - Ghost Pepper
@@ -54,3 +53,4 @@ https://brew.sh/
 - https://github.com/FuzzyIdeas/MusicDecoy
 - https://github.com/newmarcel/KeepingYouAwake
 - https://antinote.io/
+- https://github.com/ONLYOFFICE/DesktopEditors
